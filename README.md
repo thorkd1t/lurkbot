@@ -1,8 +1,10 @@
 "# lurkbot" 
-first make sure to run runONCE at least 10 times, kappa
+first run runONCE (only once)
 
 then check that joinlist.py has all channels you want to be checking
 
-then run batchfile
+then run the batchfile
+
+note, program uses folders to flag that a channel is being watched
 
 step 4 == "profit"
