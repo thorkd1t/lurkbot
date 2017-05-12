@@ -149,7 +149,7 @@ class LurkBot(object):
             
             if (messagetemp) == (message) and (message) == "" or (message) == None:
                 messagcount += 1
-                if mesagcount > 4:
+                if messagcount > 4:
                     print "dropped connection, to " + channohash + " reconnecting..."
                     
                     thepath = os.path.abspath("gogogo.py")
