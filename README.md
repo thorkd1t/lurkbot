@@ -7,5 +7,5 @@ Btw, it uses folders as part of its operation, so good idea to put it within its
 
 enjoy :) 
 
-plan to add: file to query the chat db...
+plan to add: improved file to query the chat db...
 improvements to cluttering of dbs and files by making folders to contain them
