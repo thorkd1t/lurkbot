@@ -9,11 +9,6 @@ import sqlite3
 import string
 import joinlist
 import os.path
-#import activecheck
-
-
-
-
 
 
 class LurkBot(object):
