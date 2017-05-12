@@ -1,4 +1,5 @@
-a now functioning (as far as i know) lurking(anon) chat logging bot system for twitch....
+__PLEASE NOTE THIS IS NOT A VIEWBOT__
+a now functioning (as far as i know) lurking(anon) __chat logging bot__ system for twitch....
 
 Be sure to check joinlist.py to set the channels you wish to watch
 
