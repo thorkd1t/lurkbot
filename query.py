@@ -4,7 +4,7 @@ import joinlist
 
 # the tables look like this:
 # db name imaqtpie.db (each channel in joinlist has its own .db)
-# Table name imaqtpie (each db has one table named the same as the channel)
+# Table name chat (each db has one table named chat)
 #___________________________________________________________________
 #  usr  | mesg  | id  |   flags   | channel   |     date/time      |
 #===================================================================
