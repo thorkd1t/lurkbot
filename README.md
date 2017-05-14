@@ -1,4 +1,3 @@
-__ ITS BROKEN RIGHT NOW DONT USE__
 PLEASE NOTE THIS IS __NOT A VIEWBOT....... Dependancies: python 2.7 on Windows (linux support may follow but no promises)__
 a now functioning (as far as i know) lurking(anon) __chat logging bot system for Twitch....__
 
