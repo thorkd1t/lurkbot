@@ -1,4 +1,9 @@
-PLEASE NOTE THIS IS __NOT A VIEWBOT....... Dependancies: python 2.7 on Windows (linux support may follow but no promises)__
+PLEASE NOTE THIS IS __NOT A VIEWBOT....... 
+
+
+it was made as a chat moderation/message recall tool for multichannel bots
+
+Dependancies: python 2.7
 a now functioning (as far as i know) lurking(anon) __chat logging bot system for Twitch....__
 
 Be sure to check joinlist.py to set the channels you wish to watch.
